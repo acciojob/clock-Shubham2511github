@@ -15,4 +15,4 @@ function Timer() {
 }
 
 Timer();
-//setInterval(Timer,1000);
+setInterval(Timer,1000);
